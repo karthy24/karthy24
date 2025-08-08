@@ -20,9 +20,9 @@
 <td width="50%" valign="top">
 
 js
-const HariharaSudhan = {
+const KarthiKeyan = {
   name: "Karthikeyan",
-  role: "Full Stack Developer & UI UX designer",
+  role: "Full Stack Developer & UI UX Designer",
   location: "Chennai, India 🇮🇳",
   life: {
     tea: "🍵 Fuel of choice",
@@ -42,7 +42,8 @@ const HariharaSudhan = {
     tools: ["Unity", "Figma", "Git", "VS Code"],
     languages: ["C", "C++", "Java", "JavaScript"]
   }
-}
+};
+
 
 
 
