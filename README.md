@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-js
+
 const KarthiKeyan = {
   name: "Karthikeyan",
   role: "Full Stack Developer & UI UX Designer",
