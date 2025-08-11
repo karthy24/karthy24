@@ -1,25 +1,16 @@
-<!-- TYPING BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=👨‍💻+AR%2FVR+%2B+Full+Stack+Developer;🚀+Crafting+Digital+Realities;🌐+Unity+%7C+React+%7C+Node.js;🍵+Tea+Fueled+Traveller" alt="Typing SVG" />
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<h3 align="center">🚀 Full Stack Developer & UI/UX Designer from Chennai, India 🇮🇳</h3>
 
-<!-- BANNER GIF -->
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0A3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;AR%2FVR+Enthusiast;Lifelong+Learner+%F0%9F%93%9A;Coffee+%26+Code+Lover+%F0%9F%8D%B5" alt="Typing SVG" />
+</p>
 
-<!-- MATRIX RAIN -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</div>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **About Me**
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-
+<!-- Animated Code Block -->
+```javascript
 const KarthiKeyan = {
   name: "Karthikeyan",
   role: "Full Stack Developer & UI UX Designer",
@@ -43,7 +34,6 @@ const KarthiKeyan = {
     languages: ["C", "C++", "Java", "JavaScript"]
   }
 };
-
 
 
 
