@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 ```js
-const karthi = {
+const karthy24 = {
   role: "AR/VR + Full Stack Developer",
   location: "Chennai, India 🇮🇳",
   passion: ["Immersive Experiences", "Scalable Web Apps", "UI/UX Design"],
