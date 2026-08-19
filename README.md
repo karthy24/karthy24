@@ -14,5 +14,4 @@ I'm a Computer Science Engineering graduate interested in Data Analytics and usi
 ---
 [![](https://komarev.com/ghpvc/?username=karthy24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
+
