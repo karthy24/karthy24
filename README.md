@@ -1,9 +1,13 @@
-# 👋 Hi, I'm Karthikeyan
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Karthikeyan</h1>
 
 <h3 align="center">📊 Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Analysis+%7C+Visualization;Turning+Data+into+Insights+%F0%9F%93%8A" />
+  Python • SQL • Excel • Data Analysis • Data Visualization
 </p>
 
 ---
@@ -15,12 +19,12 @@ I'm a **Computer Science Engineering graduate** interested in **Data Analytics**
 I enjoy working with datasets, analyzing patterns, creating visualizations, and building projects that turn raw data into useful information.
 
 * 📊 Focused on **Data Analytics**
-* 🐍 Learning and working with **Python**
-* 🗄️ Working with **SQL & databases**
-* 📈 Interested in **Data Visualization**
-* 📋 Working with **Excel**
-* 🔎 Exploring real-world datasets through projects
-* 🚀 Continuously improving my analytics skills
+* 🐍 Python for Data Analysis
+* 🗄️ SQL & Databases
+* 📋 Excel
+* 📈 Data Visualization
+* 🔎 Exploring real-world datasets
+* 🚀 Building Data Analytics projects
 
 ---
 
@@ -48,45 +52,28 @@ I enjoy working with datasets, analyzing patterns, creating visualizations, and 
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ---
 
 # 🚀 My Projects
 
 ## 🌾 Smart Agri Weather Analytics
 
-A data-driven agriculture project that combines **weather information and farming data** to provide useful agricultural insights.
-
-### 📊 Key Features
+A data-driven agriculture project combining **weather information and farming data** to provide useful agricultural insights.
 
 * 🌦️ Weather data analysis
 * 🌱 Crop-related insights
 * 📈 Weather trends
 * 🚨 Weather-based alerts
-* 📊 Data-driven farming recommendations
+* 📊 Data-driven recommendations
 * 🌐 Multi-language support
 
-**Technologies:**
-`Python` `SQL` `Data Analysis` `Weather Data` `Visualization`
+**Technologies:** `Python` `SQL` `Data Analysis` `Weather Data` `Visualization`
 
 ---
 
 ## 📊 Data Analysis Projects
 
-I'm continuously building projects using real-world datasets to improve my analytical skills.
-
-### Areas I'm Exploring
+I'm continuously building projects using real-world datasets.
 
 * 📈 Exploratory Data Analysis
 * 🧹 Data Cleaning
@@ -120,7 +107,7 @@ Statistics          ██████████░░░░░░░░░  5
 * [ ] 📈 Learn advanced data visualization
 * [ ] 📚 Strengthen statistics fundamentals
 * [ ] 💼 Build a strong Data Analyst portfolio
-* [ ] 🚀 Work on real-world datasets
+* [ ] 🚀 Work with real-world datasets
 
 ---
 
